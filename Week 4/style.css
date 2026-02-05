@@ -1,1 +1,28 @@
+body {
+	background-color: grey;
+	font-size: x-large;
+}
 
+.green {
+	color: green
+}
+
+.centering {
+	padding-right: 7%;
+	padding-left: 7%;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.centerlink {
+	padding-right: 50px;
+	padding-left: 50px;
+	color: blue;
+}
+
+.linkbar{
+	text-align: center;
+	background-color: yellow;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
