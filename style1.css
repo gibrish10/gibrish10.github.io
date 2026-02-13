@@ -1,6 +1,7 @@
 body {
   background-color: red;
   background-image: url("Fruit5.jpg");
+  background-size: 50%;
 }
 
 .green {
