@@ -1,0 +1,36 @@
+body {
+	background-image: url("space-background.jpg");
+	background-size: cover;
+}
+
+div {
+	padding: 100px;
+	color: green;
+	font-size: xx-large;
+	text-align: center;
+}
+
+#id1{
+	background-image: url("neptune.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+#id2{
+	background-image: url("saturn1.jpg");
+background-position: center;
+	background-size:auto 100%;
+	background-repeat: no-repeat;
+}
+
+#id3{
+	background-image: url("moon.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+#id4{
+	background-image: url("globeafrica.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
