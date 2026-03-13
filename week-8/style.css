@@ -1,0 +1,77 @@
+body {
+	background-image: url("space-background.jpg");
+	background-size: cover;
+}
+
+div {
+	padding: 100px;
+	color: white;
+	font-size: xx-large;
+	text-align: center;
+}
+
+#id1{
+	background-image: url("neptune.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+#id2{
+	background-image: url("saturn1.jpg");
+background-position: center;
+	background-size:auto 100%;
+	background-repeat: no-repeat;
+}
+
+#id3{
+	background-image: url("moon.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+#id4{
+	background-image: url("globeafrica.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+#id5{
+	background-image: url("venuscloud.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	position: fixed;
+	top: 500px; left: 100px;
+}
+
+#id6{
+	background-image: url("uranus.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	position: fixed;
+	top: 200px; left: 600px;
+}
+
+#id7{
+	background-image: url("marsglobe3.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 500px; left: 1000px;
+}
+
+#id8{
+	background-image: url("jupiter_gany.jpg");
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 200px; left: 600px;
+}
+
+#block{
+	background-color: green;
+}
+
+#inline{
+	background-color: yellow;
+	color: black;
+}
