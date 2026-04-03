@@ -1,0 +1,45 @@
+#grid {
+	display: grid;
+	grid-template-columns: 100px 100px 100px 100px 100px;
+	grid-template-rows: 100px 100px;
+	height: 500px;
+	margin: 0px;
+}
+
+#box {
+	display: grid;
+	grid-template-columns: repeat(3, 33%);
+    grid-template-rows: repeat(2, 100%);
+
+}
+
+#header {
+	display: grid;
+    grid-template-rows: 40px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+}
+
+#body {
+	display: grid;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	height: 75%;
+	
+}
+#innerBox {
+	display: grid;
+	width: 80%;
+	height: 12.5vh;
+	margin: auto;
+}
+
+#big-box {
+	display: grid;
+	height: 100%;
+	background-color: gray;
+}
